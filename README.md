@@ -1,7 +1,7 @@
 # Clustering-Analysis
 
 
-Dataset: fashion_mnist.csv
+Dataset 1: fashion_mnist.csv
 This dataset refers to 28×28 pixel images of 10 fashion items
 
 Number of Instances: 10,000
@@ -23,3 +23,16 @@ Project aim:
 Visualize natural groupings or clusters in fashion_mnist.csv on an interactive scatter plot by
 implementing UMAP dimensionality reduction algorithm in Python. On hovering over any data
 point in the plot, one should be able to read the label in the tooltip. 
+
+
+
+Dataset 2: reviews.csv
+This dataset contains customer reviews of several medicines used to treat four conditions –
+acne, insomnia, back pain, and vitamin D deficiency. Depending on medicines’ perceived
+effectiveness, customers have given medicines either ‘High’ or ‘Low’ rating. 
+
+Project aim:
+Visualize customer reviews on an interactive scatter plot by implementing UMAP
+dimensionality reduction algorithm in Python. Visualise any natural groupings of reviews.
+On hovering over any data point in the plot, one should be able to read
+relevant information about that datapoint in the tooltip. 
